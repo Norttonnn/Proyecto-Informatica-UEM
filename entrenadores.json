@@ -1,0 +1,23 @@
+[
+  {
+    "correo": "juanri@gmail.com",
+    "nombre": "ala",
+    "apellidos": "ala",
+    "pass": "12345678",
+    "roll": "Entrenador"
+  },
+  {
+    "correo": "lopezxuan@gmail.com",
+    "nombre": "lope",
+    "apellidos": "lopez",
+    "pass": "12345678",
+    "roll": "Entrenador"
+  },
+  {
+    "correo": "diegolopez@gmail.com",
+    "nombre": "diegito",
+    "apellidos": "lopesito",
+    "pass": "12345678",
+    "roll": "Entrenador"
+  }
+]

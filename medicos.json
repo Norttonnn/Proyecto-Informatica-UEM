@@ -1,0 +1,16 @@
+[
+  {
+    "correo": "juan@gmail.com",
+    "nombre": "j",
+    "apellidos": "j",
+    "pass": "12345678",
+    "roll": "Medico"
+  },
+  {
+    "correo": "marta@gmail.com",
+    "nombre": "marta",
+    "apellidos": "prima",
+    "pass": "12345678",
+    "roll": "Medico"
+  }
+]

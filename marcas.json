@@ -1,0 +1,16 @@
+[
+  {
+    "correo": "o@gmail.com",
+    "ritmo": "10km/h",
+    "aceleracion": "2lkm/h",
+    "pulsaciones": 32,
+    "distancia": "1km"
+  },
+  {
+    "correo": "p@gmail.com",
+    "ritmo": "10km/h",
+    "aceleracion": "21km/h",
+    "pulsaciones": 32,
+    "distancia": "1km"
+  }
+]

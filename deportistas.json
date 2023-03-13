@@ -1,0 +1,38 @@
+[
+  {
+    "marcas": [],
+    "correo": "alberto@gmail.com",
+    "id": 0,
+    "nombre": "Alberto",
+    "apellidos": "Garcia",
+    "pass": "12345678",
+    "roll": "Deportista"
+  },
+  {
+    "marcas": [],
+    "correo": "Paula@gmail.com",
+    "id": 0,
+    "nombre": "Paula",
+    "apellidos": "p",
+    "pass": "12345678",
+    "roll": "Deportista"
+  },
+  {
+    "marcas": [],
+    "correo": "Ivan@gmail.com",
+    "id": 0,
+    "nombre": "Ivan",
+    "apellidos": "Garcia",
+    "pass": "12345678",
+    "roll": "Deportista"
+  },
+  {
+    "marcas": [],
+    "correo": "jiale@gmail.com",
+    "id": 0,
+    "nombre": "Jiale",
+    "apellidos": "Ji",
+    "pass": "12345678",
+    "roll": "Deportista"
+  }
+]

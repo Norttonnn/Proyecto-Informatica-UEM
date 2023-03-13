@@ -1,0 +1,107 @@
+[
+  {
+    "correo": "mauroserverinodon@gmail.com",
+    "nombre": "Mauro",
+    "apellidos": "Severino Don",
+    "pass": "12345678",
+    "roll": "Deportista"
+  },
+  {
+    "correo": "alberto@gmail.com",
+    "nombre": "Alberto",
+    "apellidos": "Garcia",
+    "pass": "12345678",
+    "roll": "Deportista"
+  },
+  {
+    "correo": "Paula@gmail.com",
+    "nombre": "Paula",
+    "apellidos": "p",
+    "pass": "12345678",
+    "roll": "Deportista"
+  },
+  {
+    "correo": "Ivan@gmail.com",
+    "nombre": "Ivan",
+    "apellidos": "Garcia",
+    "pass": "12345678",
+    "roll": "Deportista"
+  },
+  {
+    "correo": "jiale@gmail.com",
+    "nombre": "Jiale",
+    "apellidos": "Ji",
+    "pass": "12345678",
+    "roll": "Deportista"
+  },
+  {
+    "correo": "juan@gmail.com",
+    "nombre": "j",
+    "apellidos": "j",
+    "pass": "12345678",
+    "roll": "Medico"
+  },
+  {
+    "correo": "pp@gmail.com",
+    "nombre": "pp",
+    "apellidos": "pp",
+    "pass": "12345678",
+    "roll": "Entrenador"
+  },
+  {
+    "correo": "entrenador@gmail.com",
+    "nombre": "entre",
+    "apellidos": "entrenadol",
+    "pass": "12345678",
+    "roll": "Entrenador"
+  },
+  {
+    "correo": "entrenador@gmail.com",
+    "nombre": "entre",
+    "apellidos": "entrenadol",
+    "pass": "12345678",
+    "roll": "Entrenador"
+  },
+  {
+    "correo": "rqwrqwweqrqew@gmail.com",
+    "nombre": "adokwd",
+    "apellidos": "fjsdklf",
+    "pass": "12345678",
+    "roll": "Entrenador"
+  },
+  {
+    "correo": "juanri@gmail.com",
+    "nombre": "juan",
+    "apellidos": "ri",
+    "pass": "12345678",
+    "roll": "Entrenador"
+  },
+  {
+    "correo": "juanri@gmail.com",
+    "nombre": "ala",
+    "apellidos": "ala",
+    "pass": "12345678",
+    "roll": "Entrenador"
+  },
+  {
+    "correo": "lopezxuan@gmail.com",
+    "nombre": "lope",
+    "apellidos": "lopez",
+    "pass": "12345678",
+    "roll": "Entrenador"
+  },
+  {
+    "correo": "diegolopez@gmail.com",
+    "nombre": "diegito",
+    "apellidos": "lopesito",
+    "pass": "12345678",
+    "roll": "Entrenador"
+  },
+  {
+    "correo": "marta@gmail.com",
+    "nombre": "marta",
+    "apellidos": "prima",
+    "pass": "12345678",
+    "roll": "Medico"
+  }
+]
